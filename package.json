@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A backend, consisted of several services and cron jobs to scrape jobs from different sites.",
   "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
   "repository": "https://github.com/shoaibur-rehman/demedious-backend.git",
   "author": "shoaib ur rehman",
   "license": "MIT",
@@ -12,5 +16,8 @@
     "node-apidoc": "^0.1.0",
     "node-cron": "^3.0.0",
     "puppeteer": "^10.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
   }
 }
