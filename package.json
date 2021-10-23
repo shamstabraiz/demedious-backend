@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A backend, consisted of several services and cron jobs to scrape jobs from different sites.",
   "main": "server.js",
+  "type": "module",
   "repository": "https://github.com/shoaibur-rehman/demedious-backend.git",
   "author": "shoaib ur rehman",
   "license": "MIT",
