@@ -11,6 +11,7 @@
   "author": "shoaib ur rehman",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "mongoose": "^6.0.12",
     "node-apidoc": "^0.1.0",
