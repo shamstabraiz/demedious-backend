@@ -16,5 +16,8 @@
     "node-apidoc": "^0.1.0",
     "node-cron": "^3.0.0",
     "puppeteer": "^10.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
   }
 }
